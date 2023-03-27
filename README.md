@@ -4,6 +4,9 @@
 - 🥇 Winning project of *BITEhack 2023* hackathon in AI category - [Antijam System](https://github.com/StableConfusion/antijam) 
 - 🥇 Winning project of *CERN Winter Campus 2022* hackathon - [GridWars GluttonBot](https://github.com/kosmydel/GridWars) 
 
+**🎮 Games**
+- 🏹 [TowerDefense](https://github.com/kosmydel/unity3d-tower-defense) in *Unity3D*
+
 <!--
 **kosmydel/kosmydel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
