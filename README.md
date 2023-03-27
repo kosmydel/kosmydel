@@ -4,14 +4,13 @@
 - 🥇 Winning project of *BITEhack 2023* hackathon in AI category - [Antijam System](https://github.com/StableConfusion/antijam) 
 - 🥇 Winning project of *CERN Winter Campus 2022* hackathon - [GridWars GluttonBot](https://github.com/kosmydel/GridWars) 
 
+**🏫 University projects**
+- 🧮 OCR, Web Search Engine, Simulated annealing - [Numerical analysis](https://github.com/kosmydel/NumericalAnalysis)
+
 **🎮 Games**
-- 🏹 [TowerDefense](https://github.com/kosmydel/unity3d-tower-defense) in *Unity3D*
+- 🏹 [Tower Defense](https://github.com/kosmydel/unity3d-tower-defense) in *Unity3D*
 
 <!--
-**kosmydel/kosmydel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
