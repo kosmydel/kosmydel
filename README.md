@@ -10,6 +10,9 @@
 **🎮 Games**
 - 🏹 [Tower Defense](https://github.com/kosmydel/unity3d-tower-defense) in *Unity3D*
 
+**🧩 Member of**
+- ✈️ [AGH Solar Plane](https://github.com/AGHSolarPlaneCode) Students Research Club - developing software for an autonomous unmanned aerial vehicle
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
