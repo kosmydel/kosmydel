@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+**⌨️ Contributor**
+- [Expensify App](https://github.com/Expensify/App/)
+- [Comm E2E Chat](https://github.com/CommE2E/comm)
+
 **📟 Hackathon projects**
 - 🥇 Winning project of *BITEhack 2023* hackathon in AI category - [Antijam System](https://github.com/StableConfusion/antijam) 
 - 🥇 Winning project of *CERN Winter Campus 2022* hackathon - [GridWars GluttonBot](https://github.com/kosmydel/GridWars) 
