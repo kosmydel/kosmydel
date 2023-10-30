@@ -2,6 +2,7 @@
 
 **⌨️ Contributor**
 - [Expensify App](https://github.com/Expensify/App/)
+- [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native/releases/tag/v6.4.0) - added web support
 - [Comm E2E Chat](https://github.com/CommE2E/comm)
 
 **📟 Hackathon projects**
