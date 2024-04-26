@@ -6,13 +6,14 @@
 - [Comm E2E Chat](https://github.com/CommE2E/comm)
 
 **📟 Hackathon projects**
+- 🥇 Winning project of *BITEhack 2024* hackathon
+- 🥈 Runner-up of *mHack 2023* hackathon
 - 🥇 Winning project of *BITEhack 2023* hackathon in AI category - [Antijam System](https://github.com/StableConfusion/antijam) 
-- 🥇 Winning project of *CERN Winter Campus 2022* hackathon - [GridWars GluttonBot](https://github.com/kosmydel/GridWars) 
+- 🥇 Winning project of *CERN Winter Campus 2022* hackathon - [GridWars GluttonBot](https://github.com/kosmydel/GridWars)
 
 **🏫 University projects**
+- 🏞️ Image generation (GAN, DDPM) and classification (using ViT) - [Image processing](https://github.com/kosmydel/image-processing)
 - 🧮 OCR, Web Search Engine, Simulated annealing - [Numerical analysis](https://github.com/kosmydel/NumericalAnalysis)
-
-**🎮 Games**
 - 🏹 [Tower Defense](https://github.com/kosmydel/unity3d-tower-defense) in *Unity3D*
 
 **🧩 Member of**
