@@ -5,10 +5,11 @@
 - 🧮 OCR, Web Search Engine, Simulated annealing - [Numerical analysis](https://github.com/kosmydel/NumericalAnalysis)
 - 🏹 [Tower Defense](https://github.com/kosmydel/unity3d-tower-defense) in *Unity3D*
 
-**⌨️ Contributor**
-- [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native/releases/tag/v6.4.0) library - added web support
-- [Expensify App](https://github.com/Expensify/App/)
-- [Comm E2E Chat](https://github.com/CommE2E/comm)
+**⌨️ Contributed to**
+- [Expensify App](https://github.com/Expensify/App/) (2023-now)
+- [react-native](https://github.com/facebook/react-native) (2024)
+- [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native/releases/tag/v6.4.0) library - added web support (2023)
+- [Comm E2E Chat](https://github.com/CommE2E/comm) (2023)
 
 **📟 Hackathon projects**
 - 🥇 Winning project of *BITEhack 2024* hackathon
@@ -17,7 +18,8 @@
 - 🥇 Winning project of *CERN Winter Campus 2022* hackathon - [GridWars GluttonBot](https://github.com/kosmydel/GridWars)
 
 **🧩 Member of**
-- ✈️ [AGH Solar Plane](https://github.com/AGHSolarPlaneCode) Students Research Club - developing software for an autonomous unmanned aerial vehicle
+- 🛸 [AGH Drone Engineering](https://drone.agh.edu.pl/) Students Research Club - developing software for an autonomous unmanned aerial vehicle,
+- ✈️ [AGH Solar Plane](https://github.com/AGHSolarPlaneCode) Students Research Club - developing software for an autonomous plane.
 
 <!--
 - 🔭 I’m currently working on ...
