@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Data Science student studying at RWTH Aachen, Germany. I'm working at Software Mansion as a Software Engineer.
+
 **🏫 University projects**
 - 🏞️ Image generation (GAN, DDPM) and classification (using ViT) - [Image processing](https://github.com/kosmydel/image-processing)
 - 🧮 OCR, Web Search Engine, Simulated annealing - [Numerical analysis](https://github.com/kosmydel/NumericalAnalysis)
