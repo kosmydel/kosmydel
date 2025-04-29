@@ -14,7 +14,8 @@ I'm a Data Science exchange student studying at RWTH Aachen, Germany. I'm workin
 - [Comm E2E Chat](https://github.com/CommE2E/comm) (2023)
 
 **📟 Hackathon projects**
-- 🏆 Awardee on *NATO-Ukraine Defense Innovators Forum 2024* hackathon in Judge’s Choice - Visual Identification category
+- 🏆 Finalist of [*OpenAI x AI Tinkerers Hackathon 2025 - Warsaw*](https://warsaw.aitinkerers.org/p/openai-x-ai-tinkerers-hackathon-warsaw) hackathon with [Air Patrol](https://github.com/AlmostEngineers/openai-warsaw-2025-drone) project
+- 🏆 Awardee on [*NATO-Ukraine Defense Innovators Forum 2024*](https://www.diu.mil/latest/unmanned-aerial-system-automated-visual-guidance-hackathon-held-at-nato) hackathon in Judge’s Choice - Visual Identification category
 - 🥇 Winning project of *BITEhack 2024* hackathon
 - 🥈 Runner-up of *mHack 2023* hackathon
 - 🥇 Winning project of *BITEhack 2023* hackathon in AI category - [Antijam System](https://github.com/StableConfusion/antijam) 
