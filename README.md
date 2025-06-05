@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Science exchange student studying at RWTH Aachen, Germany. I'm working at Software Mansion as a Software Engineer.
+I am a Master’s student in Data Science at AGH University of Science and Technology in Kraków, Poland, and I work as a Software Engineer at Software Mansion.
 
 **🏫 University projects**
 - 🏞️ Image generation (GAN, DDPM) and classification (using ViT) - [Image processing](https://github.com/kosmydel/image-processing)
