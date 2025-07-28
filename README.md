@@ -8,6 +8,7 @@ I am a Master’s student in Data Science at AGH University of Science and Techn
 - 🏹 [Tower Defense](https://github.com/kosmydel/unity3d-tower-defense) in *Unity3D*
 
 **⌨️ Contributed to**
+- [Expo SDK](https://github.com/expo/expo)
 - [Expensify App](https://github.com/Expensify/App/) (2023-2024)
 - [react-native](https://github.com/facebook/react-native) (2024)
 - [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native/releases/tag/v6.4.0) library - added web support (2023)
